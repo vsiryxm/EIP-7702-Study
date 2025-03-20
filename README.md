@@ -3,10 +3,10 @@
 一个教学性项目，展示使用EIP-7702进行账户抽象和赞助交易执行。本项目使用Foundry进行部署、脚本编写和测试。
 
 ## 学习笔记
-[EIP-7702 多授权交易前端构建教程](./frontend-build.md)
-[EIP-7702 交易执行流程时序图](./sequence_diagram.md)
-[EIP-7702 后事件监听策略](./event.md)
-[Foundry 框架使用指南](./frontend-build.md)
+- [EIP-7702 多授权交易前端构建教程](./frontend-build.md)
+- [EIP-7702 交易执行流程时序图](./sequence_diagram.md)
+- [EIP-7702 后事件监听策略](./event.md)
+- [Foundry 框架使用指南](./frontend-build.md)
 
 
 ## 概述
