@@ -13,7 +13,7 @@ Fork自：https://github.com/quiknode-labs/qn-guide-examples.git
 - [Foundry 框架使用指南](./frontend-build.md)
 - 清理DS_Store命令：find . -name ".DS_Store" -type f -delete
 
-![](./EIP-7702执行流程.png "EIP-7702执行流程")
+![](./EIP-7702交易流程.png "EIP-7702交易流程")
 
 
 ## 概述
